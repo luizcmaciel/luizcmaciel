@@ -3,7 +3,7 @@
 # Olá! É bom ter você por aqui
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-claudio-maciel)
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizcmaciel)
 
 ### Eu sou o Luiz Maciel 👋 
 - 🚀 Developer at NUV Energia
