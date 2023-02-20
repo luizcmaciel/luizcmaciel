@@ -12,11 +12,6 @@
 
 ##
 
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizcmaciel&theme=merko&count_private=true)
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcmaciel&theme=merko)
-
----
-
 ### Tecnologias que utilizo no meu dia
 
 [![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
@@ -34,3 +29,8 @@
 [![xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)]()
 [![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![android](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)]()
+
+---
+
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizcmaciel&theme=merko&count_private=true)
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcmaciel&theme=merko)
