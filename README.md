@@ -14,6 +14,8 @@
 
 ### Tecnologias que utilizo no meu dia
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=20&center=false&vCenter=true&width=600px&lines=Flutter,+Dart,+Firebase,+NodeJS,+Python)
+
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![gpc](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -30,5 +32,7 @@
 
 ##
 
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizcmaciel&theme=merko&count_private=true)
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcmaciel&theme=merko)
+<div align="left">
+  <img width="49.75%" src="https://github-readme-stats.vercel.app/api?username=luizcmaciel&theme=merko&count_private=true&hide_border=true">
+  <img width="49.75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcmaciel&theme=merko&count_private=true&hide_border=true&layout=compact">
+</div>
