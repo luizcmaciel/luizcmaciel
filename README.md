@@ -1,4 +1,4 @@
-<img src = "banner.gif" width = "250px" align="right"/>
+<img src = "banner.gif" width = "200px" align="right"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=false&vCenter=true&width=600px&lines=Olá,+É+bom+ter+você+por+aqui!)
 
