@@ -1,6 +1,6 @@
-<img src = "banner.gif" width = "275px" align="right"/>
+<img src = "banner.gif" width = "250px" align="right"/>
 
-# Olá! É bom ter você por aqui
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=false&vCenter=true&width=600px&lines=Olá,+É+bom+ter+você+por+aqui!)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-claudio-maciel)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizcmaciel)
@@ -9,7 +9,7 @@
 - 🚀 Developer at NUV Energia
 - 🚩 Cybersecurity Specialist
 - 🌱 I’m currently learning Flutter
-
+  
 ##
 
 ### Tecnologias que utilizo no meu dia
@@ -30,7 +30,7 @@
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![android](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
----
+##
 
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizcmaciel&theme=merko&count_private=true)
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcmaciel&theme=merko)
