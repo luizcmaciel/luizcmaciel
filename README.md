@@ -38,5 +38,3 @@
 </div>
 
 ![snake](https://github.com/luizcmaciel/luizcmaciel/blob/output/github-contribution-grid-snake.svg)
-
-![snake](https://github.com/luizcmaciel/luizcmaciel/blob/output/github-contribution-grid-snake.svg)
