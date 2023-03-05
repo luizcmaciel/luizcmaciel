@@ -37,8 +37,4 @@
   <img width="49.75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcmaciel&theme=merko&count_private=true&hide_border=true&layout=compact">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![snake](https://github.com/luizcmaciel/luizcmaciel/blob/output/github-contribution-grid-snake.svg)
