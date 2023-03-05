@@ -36,3 +36,5 @@
   <img width="49.75%" src="https://github-readme-stats.vercel.app/api?username=luizcmaciel&theme=merko&count_private=true&hide_border=true">
   <img width="49.75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcmaciel&theme=merko&count_private=true&hide_border=true&layout=compact">
 </div>
+
+![snake_gif](https://github.com/luizcmaciel/luizcmaciel/blob/output/github-contributor-grid-snake.svg)
